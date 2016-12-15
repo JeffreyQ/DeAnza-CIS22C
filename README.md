@@ -6,7 +6,7 @@ I hope that this will serve as ample inspiration for your own code, but do not h
 
 
 ### Scores
-Assignment | Topic | Comments | Score
+Project | Topic | Comments | Score
 --- | --- | --- | ---:
 1 | Stacks and Queues | | 100/100
 2 | Trees | | 95/100
